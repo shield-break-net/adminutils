@@ -1,0 +1,9 @@
+name: AdminUtils
+version: '0.0.1-alpha'
+main: me.freezy.plugins.papermc.adminutils.AdminUtils
+api-version: '1.20'
+prefix: AdminUtils
+load: STARTUP
+authors: [ DaTTV, Freezy ]
+description: Simple Minecraft Plugin that provides a better Admin Experience
+website: https://freezy.me
